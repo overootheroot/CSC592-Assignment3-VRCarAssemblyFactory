@@ -392,49 +392,39 @@ The following screenshots demonstrate the major features of the VR Car Assembly 
 
 ### Screenshot 1 — Factory Overview
 
-**Filename:** `01_Factory_Overview.png`
-
 Shows the overall factory environment, assembly platform, conveyor belt, and two storage tables containing the separated car components.
 
-![Factory Overview](Screenshots/Screenshot 2026-10-23 at 10.13.12 PM.png)
+![Factory Overview](https://github.com/overootheroot/CSC592-Assignment3-VRCarAssemblyFactory/blob/main/Screenshots/Screenshot%202026-10-23%20at%2010.13.12%E2%80%AFPM.png)
 
 ### Screenshot 2 — Guided Assembly Instructions
-
-**Filename:** `02_Assembly_Instructions.png`
 
 Shows the active highlighted component, floating component-name label, and current assembly progress.
 
 The screenshot demonstrates how users are guided through the assembly workflow.
 
-![Assembly Instructions](https://github.com/overootheroot/CSC592-Assignment3-VRCarAssemblyFactory/blob/main/Screenshots/Screenshot%202026-10-23%20at%2010.13.12%E2%80%AFPM.png)
+![Assembly Instructions](https://github.com/overootheroot/CSC592-Assignment3-VRCarAssemblyFactory/blob/main/Screenshots/Screenshot%202026-10-23%20at%2010.14.15%E2%80%AFPM.png)
 
 ### Screenshot 3 — VR Controller Grabbing
-
-**Filename:** `03_VR_Grabbing.png`
 
 Shows a simulated VR controller grabbing and manipulating an interactive vehicle component.
 
 This demonstrates the XR Interaction Toolkit grabbing functionality.
 
-![VR Grabbing](Screenshots/03_VR_Grabbing.png)
+![VR Grabbing](https://github.com/overootheroot/CSC592-Assignment3-VRCarAssemblyFactory/blob/main/Screenshots/Screenshot%202026-10-23%20at%2010.19.19%E2%80%AFPM.png)
 
 ### Screenshot 4 — Snap Placement
-
-**Filename:** `04_Snap_Placement.png`
 
 Shows a component being positioned near its green placement outline.
 
 The screenshot demonstrates the visual placement guide and installation workflow.
 
-![Snap Placement](Screenshots/04_Snap_Placement.png)
+![Snap Placement](https://github.com/overootheroot/CSC592-Assignment3-VRCarAssemblyFactory/blob/main/Screenshots/Screenshot%202026-10-23%20at%2010.14.15%E2%80%AFPM.png)
 
 ### Screenshot 5 — Completed Assembly
 
-**Filename:** `05_Completed_Assembly.png`
-
 Shows the completed vehicle after the installation of all 15 components, including the final completion stage.
 
-![Completed Assembly](Screenshots/05_Completed_Assembly.png)
+![Completed Assembly](https://github.com/overootheroot/CSC592-Assignment3-VRCarAssemblyFactory/blob/main/Screenshots/Screenshot%202026-10-23%20at%2010.35.08%E2%80%AFPM.png)
 
 ## 13. Running the Project
 
@@ -503,18 +493,7 @@ Shows the completed vehicle after the installation of all 15 components, includi
 
 **Solution:** The XR Interaction Simulator was used to test grabbing, placement, snapping, and the completed assembly workflow.
 
-## 15. Assignment Rubric Coverage
-
-| Rubric Category | Maximum Points | Implementation |
-|---|---:|---|
-| VR-Ready Assembly Scene | 25 | Factory environment, lighting, assembly platform, conveyor, and XR setup |
-| Visual Cues | 25 | Green placement guides, highlighted components, floating instructions, and progress indicators |
-| VR Controller Grabbing | 20 | XR Grab Interactable and simulated controller interactions |
-| Eight or More Parts | 15 | Fifteen interactive components |
-| README and Repository | 15 | Project description, documented features, screenshots, setup instructions, and asset credits |
-| Master's Bonus | Additional points | Bonus 1: Fifteen-part assembly |
-
-## 16. Conclusion
+## 15. Conclusion
 
 VR Car Assembly Factory demonstrates a guided automotive assembly experience using Unity and VR interaction technologies.
 
@@ -523,12 +502,5 @@ The project combines an industrial factory environment, 15 interactive vehicle c
 The 15-part assembly workflow satisfies the master's-level bonus requirement while extending the core assignment requirements.
 
 ---
-
-**Project:** VR Car Assembly Factory  
-**Assignment:** CSC 592 – Assignment 3
-
-**Team Members:**
-1. **Jatin Repalli**
-2. **Danny Sooza**
 
 **External Asset Providers:** Sketchfab and ambientCG.
