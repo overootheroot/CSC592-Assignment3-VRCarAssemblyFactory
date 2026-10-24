@@ -396,7 +396,7 @@ The following screenshots demonstrate the major features of the VR Car Assembly 
 
 Shows the overall factory environment, assembly platform, conveyor belt, and two storage tables containing the separated car components.
 
-([Screenshots/01_Factory_Overview.png](https://github.com/overootheroot/CSC592-Assignment3-VRCarAssemblyFactory/blob/main/Screenshots/Screenshot%202026-10-23%20at%2010.13.12%E2%80%AFPM.png))
+![Factory Overview](Screenshots/Screenshot 2026-10-23 at 10.13.12 PM.png)
 
 ### Screenshot 2 — Guided Assembly Instructions
 
