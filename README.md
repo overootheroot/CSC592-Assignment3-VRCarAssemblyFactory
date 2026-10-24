@@ -406,7 +406,7 @@ Shows the active highlighted component, floating component-name label, and curre
 
 The screenshot demonstrates how users are guided through the assembly workflow.
 
-![Assembly Instructions]([Screenshots/02_Assembly_Instructions.png](https://github.com/overootheroot/CSC592-Assignment3-VRCarAssemblyFactory/blob/main/Screenshots/Screenshot%202026-10-23%20at%2010.13.12%E2%80%AFPM.png))
+![Assembly Instructions](https://github.com/overootheroot/CSC592-Assignment3-VRCarAssemblyFactory/blob/main/Screenshots/Screenshot%202026-10-23%20at%2010.13.12%E2%80%AFPM.png)
 
 ### Screenshot 3 — VR Controller Grabbing
 
